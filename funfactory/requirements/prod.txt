@@ -7,9 +7,6 @@ Django==1.4
 django-browserid==0.7.1
 requests==0.13.0
 
-# Forms
--e git://github.com/mozilla/happyforms.git#egg=happyforms
-
 # Templates
 -e git://github.com/jbalogh/jingo.git#egg=jingo
 -e git://github.com/jsocol/jingo-minify.git#egg=jingo-minify
